@@ -112,3 +112,8 @@ Postman (para pruebas de endpoints)
 Juan Felipe Osorio Burgos
 Proyecto académico - Electiva III: Procesos de Desarrollo Ágil
 📍 Unicatólica - 2025
+
+🎥 Ver video de demostración
+https://youtu.be/mcwN-x7lw1g
+
+
