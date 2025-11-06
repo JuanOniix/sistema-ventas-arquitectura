@@ -1,0 +1,49 @@
+[
+  {
+    "id": "client-1",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "phone": "3219128803"
+  },
+  {
+    "id": "79eed72a-8a2b-453a-a9c4-fea8b6402d8d",
+    "email": "",
+    "phone": ""
+  },
+  {
+    "id": "886208d0-c839-484b-9717-6895fc55c074",
+    "name": "Juan Pérez",
+    "email": "juanperez@example.com",
+    "phone": "3121234567"
+  },
+  {
+    "id": "e1ae5d90-97b5-48e4-8f6f-37f88d97c82f",
+    "name": "Juan Pérez",
+    "email": "juanperez@example.com",
+    "phone": "3121234567"
+  },
+  {
+    "id": "d935fa15-d361-425c-873c-d18735eb19af",
+    "name": "Juan felipe osorio",
+    "email": "juanperez@example.com",
+    "phone": "31212345544"
+  },
+  {
+    "id": "3e8ec563-dbab-40ac-8f96-f9bc7a648887",
+    "name": "Dario Espana",
+    "email": "juanpdedeez@example.com",
+    "phone": "31212345544"
+  },
+  {
+    "id": "3042032d-16f2-47d7-b93c-f29e926f1be8",
+    "name": "Juan Pérez",
+    "email": "juanperez@example.com",
+    "phone": "3121234567"
+  },
+  {
+    "id": "f050dbad-1aa7-447a-bc8e-3c97c54994f5",
+    "name": "Juan Felipe burgos",
+    "email": "juanperez@exacccmple.com",
+    "phone": "3121234ccr567"
+  }
+]
