@@ -1,4 +1,4 @@
-# Arquitectura - Entrega (Ejemplo)
+# Arquitectura - Entrega 
 
 Proyecto de ejemplo con arquitectura en capas (Express + JSON local) para la asignatura.
 
@@ -41,7 +41,7 @@ Proyecto de ejemplo con arquitectura en capas (Express + JSON local) para la asi
 ## Ejecutar localmente
 1. `npm install`
 2. `npm start`
-3. Usar Postman o curl para probar endpoints.
+3. Usar Postman  para probar endpoints.
 
 ## Notas
 - Implementación simple para demostración y entregas académicas.
