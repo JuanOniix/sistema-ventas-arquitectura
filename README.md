@@ -1,3 +1,23 @@
+🚀 Servidores Express — Puertos 3000, 3001, 3002 y 3003
+
+Este proyecto contiene múltiples servidores Express, cada uno corriendo en su propio puerto.
+La estructura permite pruebas independientes desde Postman.
+
+### 📌 Puertos activos
+
+3000 → Servidor principal (usuarios)
+
+3001 → Servidor secundario
+
+3002 → Servidor de productos
+
+3003 → Servidor de órdenes
+
+
+video explicativo : https://youtu.be/D37OQ_V48AQ
+
+
+
 # Arquitectura - Entrega 
 
 Proyecto de ejemplo con arquitectura en capas (Express + JSON local) para la asignatura.
