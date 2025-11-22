@@ -1,0 +1,111 @@
+{
+  "info": {
+    "_postman_id": "a1e3c0c2-8f22-4d7b-9a92-88efmicro123",
+    "name": "Microservicios Final - Colección",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Clientes - Obtener todos",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:3000/clientes",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["clientes"]
+        }
+      }
+    },
+    {
+      "name": "Clientes - Crear cliente",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"nombre\": \"Juan Pérez\",\n  \"correo\": \"juan@test.com\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3000/clientes",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["clientes"]
+        }
+      }
+    },
+
+    {
+      "name": "Productos - Obtener todos",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:3001/productos",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["productos"]
+        }
+      }
+    },
+    {
+      "name": "Productos - Crear producto",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"nombre\": \"Laptop HP\",\n  \"precio\": 2800\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3001/productos",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3001",
+          "path": ["productos"]
+        }
+      }
+    },
+
+    {
+      "name": "Ventas - Obtener todas",
+      "request": {
+        "method": "GET",
+        "url": {
+          "raw": "http://localhost:3002/ventas",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3002",
+          "path": ["ventas"]
+        }
+      }
+    },
+    {
+      "name": "Ventas - Crear venta",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"clienteId\": 1,\n  \"productoId\": 1,\n  \"cantidad\": 2\n}"
+        },
+        "url": {
+          "raw": "http://localhost:3002/ventas",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "3002",
+          "path": ["ventas"]
+        }
+      }
+    }
+  ]
+}

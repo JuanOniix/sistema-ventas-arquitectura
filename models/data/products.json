@@ -39,5 +39,11 @@
     "name": "Teclado mecánico",
     "price": 150000,
     "stock": 8
+  },
+  {
+    "id": "4671e691-61af-4f5b-9442-4ba6edbe34c0",
+    "name": "silla gamer",
+    "price": 1500000,
+    "stock": 20
   }
 ]
