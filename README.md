@@ -10,7 +10,7 @@ Forma parte de una entrega académica orientada a validar la separación de resp
 ## 🚨 Importante
 
 > 🔹 El código fuente completo del sistema se encuentra en la **rama `master`**.  
-> Para visualizarlo, dirígete a la pestaña **"Branches"** en GitHub y selecciona la rama `master`.
+> Para visualizarlo, dirígete a la pestaña **"Branches"** en GitHub y selecciona la rama `master`. aqui encuentras el video de la etapa 1,2y3 del proyecto con sus respectivos videos
 
 
 
